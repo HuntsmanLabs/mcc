@@ -1,0 +1,1 @@
+web: gunicorn mcc.wsgi --log-file -
