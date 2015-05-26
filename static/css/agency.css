@@ -3,6 +3,9 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+.form-control {
+    height: 50px;
+}
 
 body {
     overflow-x: hidden;
@@ -75,6 +78,8 @@ h6 {
     font-weight: 700;
     color: #fff;
     background-color: #e67e22;
+    height: 45px;
+    width: 135px;
 }
 
 .btn-primary:hover,
