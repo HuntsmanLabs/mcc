@@ -177,7 +177,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: transparent;
 }
 .main-content{
     padding-top: 90px;
@@ -244,7 +244,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 15px 0;
         border: 0;
-        background-color: #222;
+        background-color: transparent;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
