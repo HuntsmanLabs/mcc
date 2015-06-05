@@ -3,6 +3,15 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+
+ .wide-map { 
+    height:400px;
+}
+
+ .data-layer{
+    display: none;
+}
+
 .form-control {
     height: 50px;
 }
@@ -244,7 +253,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default {
         padding: 15px 0;
         border: 0;
-        background-color: transparent;
+        background-color: #222;
         -webkit-transition: padding .3s;
         -moz-transition: padding .3s;
         transition: padding .3s;
